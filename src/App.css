@@ -1,0 +1,15 @@
+.App {
+  padding: 0 1rem;
+}
+
+h1 {
+  text-align: center;
+}
+
+.BigApp {
+  display: flex;
+}
+
+.BigApp > * {
+  flex: 1;
+}
